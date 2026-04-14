@@ -1,0 +1,24 @@
+Here is my write up about potentially being able to recover the 1.9m DOLA that is stored on multichain's router contract on arbitrum - (https://arbiscan.io/address/0x0615dbba33fe61a31c7ed131bda6655ed76748b1)
+
+Currently the depeg on BSC & other chains is caused by the assets being bridged from arbitrum (source chain) & minted by multichain on the target chain (https://bscscan.com/token/0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840 - Bsc DOLA)
+
+The initial idea that was discussed here was to try and co-operate with arbitrum to see if they would upgrade their token L2 proxies to set the balance of the router contract to zero. Obviously this would be highly doubtful to be accepted as it could cause additional risk to the array of tokens bridged by arbitrum foundation by upgrading contracts and allowing this precedent.
+After this was exhausted, I thought it was important to see how arbitrum tokens are bridged in the first place.
+
+The eth <-> arbitrum bridge for DOLA is set up in a way which is a "standard" ERC20 bridge - https://developer.arbitrum.io/asset-bridging#default-standard-bridging
+
+Which means that when eth DOLA is bridged to arbitrum it will mint arbitrum ERC20 tokens which is here - https://arbiscan.io/address/0x6a7661795c374c0bfc635934efaddff3a7ee23b6
+
+The idea after that was: could the DOLA on arbitrum be migrated by just simply altering the gateway to another token (https://developer.arbitrum.io/asset-bridging#the-arbitrum-generic-custom-gateway), thus would cause disruption for DOLA on arbitrum ONLY.
+
+It seems this is possible with co-operation with arbitrum & it doesnt require them to upgrade any contracts, it just means they would need to help DOLA create a custom gateway like they do for other ERC20 tokens. 
+
+Here is an address controlled by arbitrum where they have periodically used the setGateway() function to change how the token is bridged https://arbiscan.io/address/0x83df9c846789fdb6fc1f34ac4ad25dd9ef704300
+
+This is the contract that would be written to in order to migrate the token bridge.
+https://arbiscan.io/address/0x5288c571Fd7aD117beA99bF60FE0846C4E84F933#writeProxyContract
+
+If this method has been tried and arbitrum have not been co-operative, then i would propose an entire token migration which would be disruptful in the short run but would also be a good opportunity to allow better standards in token implementations. 
+
+@Eagles @Nakamomo @edo | UTC-8 🍑 
+
