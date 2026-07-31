@@ -1,4 +1,6 @@
-# Option B — Shared L2 Standard Gateway Carve-Out for Legacy DOLA
+# SUPERSEDED: Option B - Shared gateway carve-out
+
+> Historical working memo. See `../TECHNICAL_OPTIONS.md`.
 
 **Date:** 2026-04-14
 **Author:** Inverse research (joshua@richardson.tech)

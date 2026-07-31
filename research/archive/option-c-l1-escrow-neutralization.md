@@ -1,4 +1,6 @@
-# Feasibility Memo — Option C: L1-Side Escrow Neutralization
+# SUPERSEDED: Option C - L1-side escrow neutralization
+
+> Historical working memo. See `../TECHNICAL_OPTIONS.md`.
 
 Date: 2026-04-14
 Author: Inverse restitution research (for joshua@richardson.tech)

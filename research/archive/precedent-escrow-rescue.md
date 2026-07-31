@@ -1,4 +1,6 @@
-# Precedent Research: One-Shot Bridge Escrow Rescue by L2 Governance
+# SUPERSEDED: One-shot bridge escrow rescue precedent research
+
+> Historical precedent analysis. The reviewed precedent boundary is consolidated in `../GOVERNANCE.md`.
 
 **Date:** 2026-04-14
 **Prepared for:** Inverse Finance recovery proposal feasibility

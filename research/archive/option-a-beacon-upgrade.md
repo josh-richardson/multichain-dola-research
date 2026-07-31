@@ -1,4 +1,6 @@
-# Option A — Beacon Implementation Upgrade: Feasibility Memo
+# SUPERSEDED: Option A - Beacon Implementation Upgrade
+
+> Historical working memo. See `../TECHNICAL_OPTIONS.md`.
 
 **Date:** 2026-04-14
 **Author:** research agent

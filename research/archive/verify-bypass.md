@@ -1,4 +1,6 @@
-# Independent Verification: does `setGateway` / `DisableGatewayAction` alone neutralize legacy L2 ERC20 escrow redemption?
+# SUPERSEDED: Direct legacy-gateway bypass verification
+
+> Historical technical verification. The result is summarized in `../FACTS.md` and `../TECHNICAL_OPTIONS.md`.
 
 Sources read directly (no prior-agent notes consulted):
 

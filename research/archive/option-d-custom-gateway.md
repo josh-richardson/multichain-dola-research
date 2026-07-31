@@ -1,4 +1,6 @@
-# Option D Feasibility: Custom L1/L2 Gateway + New L2 DOLA
+# SUPERSEDED: Option D - Custom L1/L2 gateway
+
+> Historical working memo. See `../TECHNICAL_OPTIONS.md`.
 
 Date: 2026-04-14
 Author: research agent (pure research, no code)

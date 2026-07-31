@@ -1,4 +1,6 @@
-# Spike: Can the L2 UpgradeExecutor rewrite DOLA's beacon pointer without touching the shared StandardArbERC20 beacon?
+# SUPERSEDED: UpgradeExecutor and per-proxy beacon spike
+
+> Historical technical investigation. Its per-proxy negative proof is summarized in `../TECHNICAL_OPTIONS.md`.
 
 - **Date:** 2026-04-14
 - **Author:** joshua@richardson.tech

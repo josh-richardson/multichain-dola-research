@@ -1,4 +1,6 @@
-# DOLA / Multichain Restitution Research
+# SUPERSEDED: DOLA / Multichain Restitution Research
+
+> Historical working memo. See `../SUMMARY.md` and `../FACTS.md`. Balance snapshots and the description of `0x0615...` as a router are stale.
 
 Date: April 14, 2026
 

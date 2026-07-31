@@ -1,3 +1,7 @@
+# SUPERSEDED: recent proposal links
+
+> Historical source note. Relevant mechanics are consolidated in `../GOVERNANCE.md`.
+
 This is using discourse so perhaps retrieve entire discussions from API
 
 They demonstrate what the Arb dao is willing to do to change token bridging functionality.

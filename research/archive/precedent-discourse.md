@@ -1,4 +1,6 @@
-# Precedent Discourse Memo: Boring and Sky Custom-Gateway AIPs — Implications for a DOLA Bridge-Intervention AIP
+# SUPERSEDED: Boring and Sky precedent discourse memo
+
+> Historical precedent analysis. Verified mechanics are consolidated in `../GOVERNANCE.md`; predictions are not canonical.
 
 Date: 2026-04-14
 Author: research agent

@@ -1,4 +1,6 @@
-# Independent verification: what `DisableGatewayAction` actually does — and does not — do
+# SUPERSEDED: DisableGatewayAction verification
+
+> Historical technical verification. The result is summarized in `../GOVERNANCE.md`.
 
 Date: 2026-04-14
 Author (analyst): joshua@richardson.tech spike

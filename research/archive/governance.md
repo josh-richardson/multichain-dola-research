@@ -1,4 +1,6 @@
-# Governance Feasibility Memo: DOLA / Multichain Recovery — Cross-DAO Mechanics
+# SUPERSEDED: Cross-DAO governance feasibility memo
+
+> Historical working memo. Governance mechanics are consolidated in `../GOVERNANCE.md`; predictions and percentage estimates are not canonical.
 
 **Date:** 2026-04-14
 **Author:** research

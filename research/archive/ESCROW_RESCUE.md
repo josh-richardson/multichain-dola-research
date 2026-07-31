@@ -1,4 +1,6 @@
-# One-Shot Escrow Rescue: technical description and honest political read
+# SUPERSEDED: One-Shot Escrow Rescue
+
+> Historical working memo. The concrete action is specified without political predictions in `../TECHNICAL_OPTIONS.md`.
 
 Date: 2026-04-14 (revised after precedent research)
 

@@ -1,4 +1,6 @@
-# Inverse DOLA Recovery: Recommended Strategy
+# SUPERSEDED: Inverse DOLA Recovery: Recommended Strategy
+
+> Historical working memo. Its probability estimates and reactive-defense assumptions are not canonical. See `../TECHNICAL_OPTIONS.md`.
 
 Date: 2026-04-14
 
